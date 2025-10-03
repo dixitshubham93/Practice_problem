@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/dixitshubham93/Practice_problem/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/dixitshubham93/Practice_problem/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
@@ -41,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
