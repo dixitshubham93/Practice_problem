@@ -27,6 +27,6 @@ public:
                 r = mid;
             }
         }
-        return nums[r];
+        return min(nums[l],nums[r]);
     }
 };
