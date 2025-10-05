@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-
+        
         int maxi = 0;
         int mini = 0;
 
