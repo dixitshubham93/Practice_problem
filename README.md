@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixitshubham93/Practice_problem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
