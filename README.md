@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Breadth-First Search
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/dixitshubham93/Practice_problem/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
 | ------- |
