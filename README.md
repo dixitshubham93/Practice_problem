@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/dixitshubham93/Practice_problem/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/dixitshubham93/Practice_problem/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
