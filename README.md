@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dixitshubham93/Practice_problem/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/dixitshubham93/Practice_problem/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0056-merge-intervals) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
