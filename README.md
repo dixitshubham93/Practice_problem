@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0038-count-and-say](https://github.com/dixitshubham93/Practice_problem/tree/master/0038-count-and-say) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sorting
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
