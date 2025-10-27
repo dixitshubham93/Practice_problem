@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dixitshubham93/Practice_problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/dixitshubham93/Practice_problem/tree/master/0547-number-of-provinces) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dixitshubham93/Practice_problem/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0214-shortest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
