@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dixitshubham93/Practice_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dixitshubham93/Practice_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
@@ -305,9 +309,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
