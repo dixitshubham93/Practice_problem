@@ -3,11 +3,13 @@ public:
   
     int climbStairs(int n) {
     vector<int>dp(n+1,0);
-    dp[0] = 1;
-    dp[1] = 1;
+    int it1 = 1;
+    int it2 = 1;
     for(int i=2;i<=n;i++){
-        dp[i] += dp[i-1]+dp[i-2];
+        int x = it1+it2;
+        it2 = it1;
+        it1 = x;
     }
-    return  dp[n];
+    return  it1;
     }
 };
