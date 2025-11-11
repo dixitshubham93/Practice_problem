@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dixitshubham93/Practice_problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/dixitshubham93/Practice_problem/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
