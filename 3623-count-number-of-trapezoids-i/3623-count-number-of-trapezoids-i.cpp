@@ -1,17 +1,7 @@
 class Solution {
 public:
     long long MOD = 1e9+7;
-    long long nCr(int n, int r) {
-    if (r > n) return 0;
-    if (r > n - r) r = n - r;  // because C(n, r) = C(n, n-r)
-
-    long long ans = 1;
-    for (int i = 1; i <= r; i++) {
-        ans = (ans * (n - i + 1) / i)%MOD;
-    }
-    return ans;
-}
-
+    
     int countTrapezoids(vector<vector<int>>& points) {
      map<int , int>mp;
 
@@ -24,7 +14,7 @@ public:
      vector<long long>temp;
      for(auto i : mp){
        if(i.second>=2){
-         temp.push_back(nCr(i.second,2));
+         temp.push_back((1LL*i.second*(i.second-1)/2)%MOD);
        }
      }
 
