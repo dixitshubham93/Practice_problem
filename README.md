@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dixitshubham93/Practice_problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dixitshubham93/Practice_problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Ordered Set
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Geometry
 |  |
 | ------- |
