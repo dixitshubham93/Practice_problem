@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/dixitshubham93/Practice_problem/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/dixitshubham93/Practice_problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
