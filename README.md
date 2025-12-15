@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dixitshubham93/Practice_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [1925-count-square-sum-triples](https://github.com/dixitshubham93/Practice_problem/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dixitshubham93/Practice_problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
