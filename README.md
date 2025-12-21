@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dixitshubham93/Practice_problem/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dixitshubham93/Practice_problem/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-longest-happy-prefix](https://github.com/dixitshubham93/Practice_problem/tree/master/1392-longest-happy-prefix) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
