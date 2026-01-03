@@ -1,49 +1,32 @@
 class Solution {
 public:
     static const int MOD = 1e9 + 7;
-    int arr[5001][4][4][4];
+    long long dp[5001][2];
 
-    Solution() {
-        memset(arr, -1, sizeof(arr)); 
-    }
+    long long solve(int row, int total, int type) {
+        if (row == total) return 1;
 
-    int solve(int n, int f, int s, int t) {
-        if (n == 0) return 1;
+        if (dp[row][type] != -1) return dp[row][type];
 
-        int &res = arr[n][f][s][t];
-        if (res != -1) return res;
-
-        long long ans = 0;
-
-        if (f == 0) {
-            for (int i = 1; i <= 3; i++) {
-                for (int k = 1; k <= 3; k++) {
-                    for (int j = 1; j <= 3; j++) {
-                        if (j != i && j != k) {
-                            ans = (ans + solve(n - 1, i, j, k)) % MOD;
-                        }
-                    }
-                }
-            }
+        if (type == 0) {
+            return dp[row][type] =
+                (2LL * solve(row + 1, total, 0) +
+                 2LL * solve(row + 1, total, 1)) % MOD;
         } else {
-            for (int i = 1; i <= 3; i++) {
-                if (i != f) {
-                    for (int k = 1; k <= 3; k++) {
-                        if (k != t) {
-                            for (int j = 1; j <= 3; j++) {
-                                if (j != i && j != k && j != s) {
-                                    ans = (ans + solve(n - 1, i, j, k)) % MOD;
-                                }
-                            }
-                        }
-                    }
-                }
-            }
+            return dp[row][type] =
+                (2LL * solve(row + 1, total, 0) +
+                 3LL * solve(row + 1, total, 1)) % MOD;
         }
-        return res = ans;
     }
 
     int numOfWays(int n) {
-        return solve(n, 0, 0, 0);
+        if (n == 1) return 12;
+
+        memset(dp, -1, sizeof(dp));
+
+        long long aba = (6LL * solve(1, n, 0)) % MOD;
+        long long abc = (6LL * solve(1, n, 1)) % MOD;
+
+        return (aba + abc) % MOD;
     }
 };
