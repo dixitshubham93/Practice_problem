@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/dixitshubham93/Practice_problem/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dixitshubham93/Practice_problem/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/dixitshubham93/Practice_problem/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0137-single-number-ii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0260-single-number-iii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -512,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3623-count-number-of-trapezoids-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
