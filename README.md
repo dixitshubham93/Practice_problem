@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0260-single-number-iii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
