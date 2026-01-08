@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
+| [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/dixitshubham93/Practice_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/dixitshubham93/Practice_problem/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
+| [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dixitshubham93/Practice_problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/dixitshubham93/Practice_problem/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## String Matching
