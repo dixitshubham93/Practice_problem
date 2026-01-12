@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dixitshubham93/Practice_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0056-merge-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dixitshubham93/Practice_problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
@@ -581,5 +585,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
