@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
+| [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/dixitshubham93/Practice_problem/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1590-make-sum-divisible-by-p](https://github.com/dixitshubham93/Practice_problem/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
