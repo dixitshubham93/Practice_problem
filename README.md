@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dixitshubham93/Practice_problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dixitshubham93/Practice_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dixitshubham93/Practice_problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dixitshubham93/Practice_problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dixitshubham93/Practice_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/dixitshubham93/Practice_problem/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/dixitshubham93/Practice_problem/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dixitshubham93/Practice_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Monotonic Queue
 |  |
