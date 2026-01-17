@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/dixitshubham93/Practice_problem/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/dixitshubham93/Practice_problem/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/dixitshubham93/Practice_problem/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/dixitshubham93/Practice_problem/tree/master/0223-rectangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dixitshubham93/Practice_problem/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3623-count-number-of-trapezoids-i) |
