@@ -5,6 +5,12 @@ public:
     MyQueue() {
         
     }
+  void transfer(){
+        while(!s1.empty()){
+           s2.push(s1.top());
+           s1.pop();
+        }
+    }
     
     void push(int x) {
         s1.push(x);
@@ -12,35 +18,21 @@ public:
     
     int pop() {
 
-        while(!s1.empty()){
-           s2.push(s1.top());
-           s1.pop();
-        }
-        int val = s2.top();
+        if(s2.empty()){transfer();}
+        int val =  s2.top();
         s2.pop();
-        while(!s2.empty()){
-            s1.push(s2.top());
-            s2.pop();
-        }
         return val;
 
     }
     
     int peek() {
-        while(!s1.empty()){
-           s2.push(s1.top());
-           s1.pop();
-        }
-        int val = s2.top();
-        while(!s2.empty()){
-            s1.push(s2.top());
-            s2.pop();
-        }
+       if(s2.empty()){transfer();}
+        int val =  s2.top();
         return val;
     }
     
     bool empty() {
-        return s1.empty();
+        return s1.empty()&&s2.empty();
     }
 };
 
