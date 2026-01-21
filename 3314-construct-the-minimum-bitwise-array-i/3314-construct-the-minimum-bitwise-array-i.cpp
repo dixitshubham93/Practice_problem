@@ -9,9 +9,11 @@ public:
             ans.push_back(-1);
             continue;
         }
-        int lowestZero = (~x) & (x + 1);     
-        int bitToTurnOff = lowestZero >> 1;   
-        ans.push_back(x & (~bitToTurnOff));
+        x++;
+        x = x>>1;
+        x = x&(-x);
+        x = ~x;
+        ans.push_back(nums[i]&x);
         }
 
         return ans;
