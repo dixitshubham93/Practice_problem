@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/dixitshubham93/Practice_problem/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/dixitshubham93/Practice_problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dixitshubham93/Practice_problem/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
