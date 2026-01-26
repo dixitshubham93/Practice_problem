@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dixitshubham93/Practice_problem/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dixitshubham93/Practice_problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/dixitshubham93/Practice_problem/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0137-single-number-ii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dixitshubham93/Practice_problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/dixitshubham93/Practice_problem/tree/master/0225-implement-stack-using-queues) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dixitshubham93/Practice_problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0503-next-greater-element-ii) |
