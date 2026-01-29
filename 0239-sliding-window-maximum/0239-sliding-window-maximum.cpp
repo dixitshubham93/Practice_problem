@@ -1,27 +1,33 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        unordered_map<int , int>mp;
-        set<int>st;
+        vector<int> ans;
         int n = nums.size();
-        vector<int>ans;
-
-        int s = 0;
-        int e = 0;
-
-        while(e<n){
-            mp[nums[e]]++;
-            if(st.count(nums[e])==0){
-                st.insert(nums[e]);
+        if (n == 1){
+            return nums;
+        }
+        stack<int> st;
+        int ngi[n];
+        st.push(n-1);
+        ngi[n-1] = n;
+        for(int i=n-2;i>=0;i--){
+            while(st.size() > 0 && nums[st.top()] <= nums[i]){
+                st.pop();
             }
-            e++;
-            if(e<k){continue;}
-            ans.push_back(*st.rbegin());
-            mp[nums[s]]--;
-            if(mp[nums[s]]==0){
-                st.erase(nums[s]);
+            if(!st.empty()){
+                ngi[i] = st.top();
             }
-            s++;
+            else{
+                ngi[i] = n;
+            }
+            st.push(i);
+        }
+        for(int i=0;i<=n-k;i++){
+            int j = i;
+            while(ngi[j] < i + k){
+                j = ngi[j];
+            }
+            ans.push_back(nums[j]);
         }
         return ans;
     }
