@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dixitshubham93/Practice_problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/dixitshubham93/Practice_problem/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/dixitshubham93/Practice_problem/tree/master/0901-online-stock-span) |
 ## Linked List
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/dixitshubham93/Practice_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
