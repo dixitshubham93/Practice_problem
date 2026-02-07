@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1559-cherry-pickup-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1559-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-longest-happy-prefix](https://github.com/dixitshubham93/Practice_problem/tree/master/1392-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/dixitshubham93/Practice_problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
