@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/dixitshubham93/Practice_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dixitshubham93/Practice_problem/tree/master/0199-binary-tree-right-side-view) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dixitshubham93/Practice_problem/tree/master/0199-binary-tree-right-side-view) |
