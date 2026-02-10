@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/1200-minimum-absolute-difference) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dixitshubham93/Practice_problem/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/dixitshubham93/Practice_problem/tree/master/1590-make-sum-divisible-by-p) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/dixitshubham93/Practice_problem/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dixitshubham93/Practice_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
