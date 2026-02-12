@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/dixitshubham93/Practice_problem/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0260-single-number-iii) |
+| [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dixitshubham93/Practice_problem/tree/master/0417-pacific-atlantic-water-flow) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/dixitshubham93/Practice_problem/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/dixitshubham93/Practice_problem/tree/master/0901-online-stock-span) |
@@ -785,9 +788,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
