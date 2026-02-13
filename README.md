@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3623-count-number-of-trapezoids-i) |
 | [3713-longest-balanced-substring-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
 | [3863-power-grid-maintenance](https://github.com/dixitshubham93/Practice_problem/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/dixitshubham93/Practice_problem/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3714-longest-balanced-substring-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dixitshubham93/Practice_problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3714-longest-balanced-substring-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
