@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/dixitshubham93/Practice_problem/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/dixitshubham93/Practice_problem/tree/master/1392-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dixitshubham93/Practice_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
