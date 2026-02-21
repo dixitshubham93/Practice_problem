@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/dixitshubham93/Practice_problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/dixitshubham93/Practice_problem/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dixitshubham93/Practice_problem/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0064-minimum-path-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dixitshubham93/Practice_problem/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/dixitshubham93/Practice_problem/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/dixitshubham93/Practice_problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dixitshubham93/Practice_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dixitshubham93/Practice_problem/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dixitshubham93/Practice_problem/tree/master/0070-climbing-stairs) |
