@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/dixitshubham93/Practice_problem/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dixitshubham93/Practice_problem/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dixitshubham93/Practice_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/dixitshubham93/Practice_problem/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
