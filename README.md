@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dixitshubham93/Practice_problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/0485-max-consecutive-ones) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/dixitshubham93/Practice_problem/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dixitshubham93/Practice_problem/tree/master/0560-subarray-sum-equals-k) |
