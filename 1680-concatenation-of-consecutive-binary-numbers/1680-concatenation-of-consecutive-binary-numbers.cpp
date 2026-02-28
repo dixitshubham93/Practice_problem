@@ -9,7 +9,7 @@ public:
         int t =1;
         while(temp<=n){      
         ans = (ans<<t|temp)%MOD;
-        if(temp == pow(2,t)-1){
+        if(temp == (1<<t)-1){
         t++;
         } 
         temp++;
