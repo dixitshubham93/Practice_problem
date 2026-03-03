@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0735-asteroid-collision](https://github.com/dixitshubham93/Practice_problem/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dixitshubham93/Practice_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1929-concatenation-of-array) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/dixitshubham93/Practice_problem/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dixitshubham93/Practice_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dixitshubham93/Practice_problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dixitshubham93/Practice_problem/tree/master/0050-powx-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Quickselect
 |  |
 | ------- |
