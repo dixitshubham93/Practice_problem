@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dixitshubham93/Practice_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dixitshubham93/Practice_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dixitshubham93/Practice_problem/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dixitshubham93/Practice_problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dixitshubham93/Practice_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dixitshubham93/Practice_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
