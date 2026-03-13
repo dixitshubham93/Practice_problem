@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dixitshubham93/Practice_problem/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dixitshubham93/Practice_problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3379-transformed-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3453-separate-squares-i) |
 ## Depth-First Search
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dixitshubham93/Practice_problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dixitshubham93/Practice_problem/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dixitshubham93/Practice_problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dixitshubham93/Practice_problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dixitshubham93/Practice_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
