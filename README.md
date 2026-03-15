@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0260-single-number-iii) |
 | [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/dixitshubham93/Practice_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dixitshubham93/Practice_problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/dixitshubham93/Practice_problem/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/dixitshubham93/Practice_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dixitshubham93/Practice_problem/tree/master/0703-kth-largest-element-in-a-stream) |
