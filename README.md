@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/dixitshubham93/Practice_problem/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/1200-minimum-absolute-difference) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/dixitshubham93/Practice_problem/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/dixitshubham93/Practice_problem/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
