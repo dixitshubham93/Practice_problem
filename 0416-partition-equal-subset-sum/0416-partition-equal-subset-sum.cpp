@@ -1,25 +1,37 @@
 class Solution{
 public:
-
     vector<vector<int>>dp;
-    int solve(int temp , int idx , vector<int>&nums){
-      if(idx>=nums.size()){return temp==0?1:0;}
-      if(temp==0){return 1;}
-      if(temp<0){return 0 ;}
+    
+    bool canPartition(vector<int>& nums) {
+    int sum = accumulate(nums.begin(), nums.end(), 0);
 
-      if(dp[idx][temp]!=-1){return dp[idx][temp];}
+    if (sum % 2 != 0) return false;
 
-      int l = solve(temp , idx+1 , nums);
-      int r = solve(temp-nums[idx] , idx+1 , nums);
-      return dp[idx][temp] = l||r;
+    int n = nums.size();
+    int half = sum / 2;
+
+    vector<vector<int>> dp(n + 1, vector<int>(half + 1, 0));
+
+    // Base case
+    for (int i = 0; i <= n; i++) {
+        dp[i][0] = 1;
     }
-    bool canPartition(vector<int>& nums){
-        int sum = accumulate(nums.begin() , nums.end() , 0);
-        cout<<sum<<endl;
-        if(sum%2!=0){return false;}
-        int n = nums.size();
-        int temp = sum/2;
-        dp.assign(n+1,vector<int>(temp+1, -1));
-        return solve(temp , 0 , nums)==0?false:true;
+
+    // Bottom-up
+    for (int idx = n - 1; idx >= 0; idx--) {
+        for (int temp = 0; temp <= half; temp++) {
+
+            int notTake = dp[idx + 1][temp];
+
+            int take = 0;
+            if (temp >= nums[idx]) {
+                take = dp[idx + 1][temp - nums[idx]];
+            }
+
+            dp[idx][temp] = take || notTake;
+        }
     }
+
+    return dp[0][half];
+}
 };
