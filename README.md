@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1975-maximum-matrix-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dixitshubham93/Practice_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2104-sum-of-subarray-ranges](https://github.com/dixitshubham93/Practice_problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dixitshubham93/Practice_problem/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dixitshubham93/Practice_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dixitshubham93/Practice_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dixitshubham93/Practice_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dixitshubham93/Practice_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dixitshubham93/Practice_problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/dixitshubham93/Practice_problem/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -742,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dixitshubham93/Practice_problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dixitshubham93/Practice_problem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dixitshubham93/Practice_problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -845,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -953,4 +960,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dixitshubham93/Practice_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
