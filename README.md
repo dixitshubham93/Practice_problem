@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/dixitshubham93/Practice_problem/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/dixitshubham93/Practice_problem/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/dixitshubham93/Practice_problem/tree/master/0645-set-mismatch) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dixitshubham93/Practice_problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dixitshubham93/Practice_problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dixitshubham93/Practice_problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1622-fancy-sequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/dixitshubham93/Practice_problem/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
 |  |
