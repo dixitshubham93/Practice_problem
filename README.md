@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dixitshubham93/Practice_problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1970-last-day-where-you-can-still-cross](https://github.com/dixitshubham93/Practice_problem/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dixitshubham93/Practice_problem/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
+| [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dixitshubham93/Practice_problem/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1975-maximum-matrix-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1975-maximum-matrix-sum) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/dixitshubham93/Practice_problem/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1002,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
+| [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 ## Binary Indexed Tree
 |  |
 | ------- |
