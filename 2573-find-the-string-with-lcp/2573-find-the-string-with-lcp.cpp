@@ -36,14 +36,7 @@ public:
                 }
 
                 // ✅ equality constraints
-                for(int j = 0; j < i; j++){
-                    if(lcp[i][j] > 0){
-                        if(s[j] != '?' && s[j] != it){
-                            conflict = true;
-                            break;
-                        }
-                    }
-                }
+               
 
                 if(!conflict){
                     s[i] = it;
@@ -55,7 +48,6 @@ public:
             if(!isPossible) return "";
         }
 
-        // 🔥 Final validation using DP
         vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
 
         for(int i = n-1; i >= 0; i--){
