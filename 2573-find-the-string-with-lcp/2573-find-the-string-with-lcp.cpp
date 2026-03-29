@@ -5,7 +5,7 @@ public:
         int n = lcp.size();
         vector<vector<int>> mark(n);
 
-        // Initial validation + marking inequality constraints
+       
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
                 if(lcp[i][j] != lcp[j][i]) return "";
@@ -17,9 +17,8 @@ public:
                 }
             }
         }
-        
-        // Use '?' so we can enforce equality properly
-        string s(n, '?');
+ 
+        string s(n, 'a');
 
         for(int i = 0; i < n; i++){ 
             bool isPossible = false;     
@@ -27,16 +26,13 @@ public:
             for(char it = 'a'; it <= 'z'; it++){
                 bool conflict = false;
 
-                // ❌ inequality constraints
+              
                 for(int j = 0; j < mark[i].size(); j++){
                     if(s[mark[i][j]] == it){
                         conflict = true;
                         break;
                     }
                 }
-
-                // ✅ equality constraints
-               
 
                 if(!conflict){
                     s[i] = it;
