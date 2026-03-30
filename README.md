@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/dixitshubham93/Practice_problem/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/dixitshubham93/Practice_problem/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0213-house-robber-ii) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/dixitshubham93/Practice_problem/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/dixitshubham93/Practice_problem/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/dixitshubham93/Practice_problem/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/dixitshubham93/Practice_problem/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/dixitshubham93/Practice_problem/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dixitshubham93/Practice_problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
