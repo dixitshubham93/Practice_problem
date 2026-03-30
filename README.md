@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/dixitshubham93/Practice_problem/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dixitshubham93/Practice_problem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/dixitshubham93/Practice_problem/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/dixitshubham93/Practice_problem/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/dixitshubham93/Practice_problem/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0402-remove-k-digits) |
