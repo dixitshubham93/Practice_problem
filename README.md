@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0518-coin-change-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/dixitshubham93/Practice_problem/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/dixitshubham93/Practice_problem/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dixitshubham93/Practice_problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
 ## Recursion
