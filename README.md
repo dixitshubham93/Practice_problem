@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3634-minimum-removals-to-balance-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dixitshubham93/Practice_problem/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dixitshubham93/Practice_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3863-power-grid-maintenance](https://github.com/dixitshubham93/Practice_problem/tree/master/3863-power-grid-maintenance) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3453-separate-squares-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/dixitshubham93/Practice_problem/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dixitshubham93/Practice_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3606-coupon-code-validator](https://github.com/dixitshubham93/Practice_problem/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Biconnected Component
 |  |
 | ------- |
