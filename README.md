@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/dixitshubham93/Practice_problem/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/dixitshubham93/Practice_problem/tree/master/1046-last-stone-weight) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dixitshubham93/Practice_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/dixitshubham93/Practice_problem/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/dixitshubham93/Practice_problem/tree/master/0994-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
