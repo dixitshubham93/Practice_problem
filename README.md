@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/dixitshubham93/Practice_problem/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/dixitshubham93/Practice_problem/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/dixitshubham93/Practice_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0516-longest-palindromic-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/dixitshubham93/Practice_problem/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/dixitshubham93/Practice_problem/tree/master/0696-count-binary-substrings) |
