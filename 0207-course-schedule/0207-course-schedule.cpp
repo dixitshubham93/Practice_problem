@@ -1,37 +1,30 @@
 class Solution {
 public:
-    bool isCyc(int v, vector<vector<int>>& adj, vector<int>& visited, vector<int>& pathVis) {
-        visited[v] = 1;
-        pathVis[v] = 1;
-
-        for (int nei : adj[v]) {
-            if (!visited[nei]) {
-                if (isCyc(nei, adj, visited, pathVis)) return true;
-            }
-            else if (pathVis[nei]) {
-                return true;
-            }
+    bool dfs(vector<vector<int>>&adj,vector<int>&visited , int node,vector<int>&path ){
+        visited[node] = 1;
+        path[node] = 1;
+        for(auto& child : adj[node]){
+            if(path[child]==1){return false;}
+           if(!visited[child]){
+            if(!dfs(adj , visited , child , path)){return false;}
+           }
         }
-
-        pathVis[v] = 0; 
-        return false;
-    }
-
-    bool canFinish(int V, vector<vector<int>>& edges) {
-        vector<vector<int>> adj(V);
-
-        for (auto edge : edges) {
-            adj[edge[1]].push_back(edge[0]);
-        }
-
-        vector<int> visited(V, 0), pathVis(V, 0);
-
-        for (int i = 0; i < V; i++) {
-            if (!visited[i]) {
-                if (isCyc(i, adj, visited, pathVis)) return false;
-            }
-        }
-
+        path[node] = 0;
         return true;
+    }
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        vector<int>visited(n);
+        vector<int>path(n);
+
+        vector<vector<int>>adj(n);
+        for(auto&it : pre){
+            adj[it[1]].push_back(it[0]);
+        }
+        for(int i = 0;i<n;i++){
+            if(visited[i]==0){         
+                if(!dfs(adj , visited , i , path)){return false;}
+            }
+        }
+    return true;
     }
 };
