@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dixitshubham93/Practice_problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dixitshubham93/Practice_problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/dixitshubham93/Practice_problem/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/dixitshubham93/Practice_problem/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/dixitshubham93/Practice_problem/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/dixitshubham93/Practice_problem/tree/master/0076-minimum-window-substring) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dixitshubham93/Practice_problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dixitshubham93/Practice_problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dixitshubham93/Practice_problem/tree/master/0085-maximal-rectangle) |
