@@ -1152,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/dixitshubham93/Practice_problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dixitshubham93/Practice_problem/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/dixitshubham93/Practice_problem/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1319-number-of-operations-to-make-network-connected) |
