@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dixitshubham93/Practice_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dixitshubham93/Practice_problem/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/dixitshubham93/Practice_problem/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/dixitshubham93/Practice_problem/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/dixitshubham93/Practice_problem/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixitshubham93/Practice_problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/dixitshubham93/Practice_problem/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/dixitshubham93/Practice_problem/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1631-path-with-minimum-effort) |
 | [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
