@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/dixitshubham93/Practice_problem/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0564-find-the-closest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/dixitshubham93/Practice_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0516-longest-palindromic-subsequence) |
+| [0564-find-the-closest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/dixitshubham93/Practice_problem/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/dixitshubham93/Practice_problem/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/dixitshubham93/Practice_problem/tree/master/0686-repeated-string-match) |
