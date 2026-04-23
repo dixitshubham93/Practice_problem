@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dixitshubham93/Practice_problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1631-path-with-minimum-effort) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1143-longest-common-subsequence) |
+| [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dixitshubham93/Practice_problem/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
+| [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
