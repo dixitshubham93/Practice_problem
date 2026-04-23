@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-total-distance-traveled](https://github.com/dixitshubham93/Practice_problem/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/dixitshubham93/Practice_problem/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/dixitshubham93/Practice_problem/tree/master/2751-robot-collisions) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2615-sum-of-distances](https://github.com/dixitshubham93/Practice_problem/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dixitshubham93/Practice_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-largest-magic-square](https://github.com/dixitshubham93/Practice_problem/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2615-sum-of-distances](https://github.com/dixitshubham93/Practice_problem/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/2906-construct-product-matrix) |
