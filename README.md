@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dixitshubham93/Practice_problem/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/dixitshubham93/Practice_problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/dixitshubham93/Practice_problem/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/dixitshubham93/Practice_problem/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0416-partition-equal-subset-sum) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0223-rectangle-area](https://github.com/dixitshubham93/Practice_problem/tree/master/0223-rectangle-area) |
 | [0368-largest-divisible-subset](https://github.com/dixitshubham93/Practice_problem/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/dixitshubham93/Practice_problem/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0564-find-the-closest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dixitshubham93/Practice_problem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/dixitshubham93/Practice_problem/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/dixitshubham93/Practice_problem/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/dixitshubham93/Practice_problem/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
