@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0564-find-the-closest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dixitshubham93/Practice_problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dixitshubham93/Practice_problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dixitshubham93/Practice_problem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/dixitshubham93/Practice_problem/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
