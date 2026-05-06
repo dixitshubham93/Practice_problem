@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dixitshubham93/Practice_problem/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dixitshubham93/Practice_problem/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/dixitshubham93/Practice_problem/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dixitshubham93/Practice_problem/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dixitshubham93/Practice_problem/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/dixitshubham93/Practice_problem/tree/master/1753-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/dixitshubham93/Practice_problem/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dixitshubham93/Practice_problem/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/dixitshubham93/Practice_problem/tree/master/1895-largest-magic-square) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dixitshubham93/Practice_problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/dixitshubham93/Practice_problem/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dixitshubham93/Practice_problem/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/dixitshubham93/Practice_problem/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
