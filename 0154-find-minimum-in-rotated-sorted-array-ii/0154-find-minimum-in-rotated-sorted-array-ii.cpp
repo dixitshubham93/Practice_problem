@@ -1,38 +1,22 @@
 class Solution {
 public:
-    int predicate(int x, int bound) {
-        if (bound <= x)
-            return 0;  
-        return 1;      
-    }
-
     int findMin(vector<int>& nums) {
-        int n = nums.size();
-        int l = 0;
-        int r = n - 1;
-
-       
-        if (nums[0] < nums[n - 1]) {
-            return nums[0];
+        int s = 0;
+        int e = nums.size()-1;
+        int mid = (s+e)/2;
+        int ans = 0;
+        while(s<e){
+           if(nums[e]==nums[mid]){
+            e--;
+           }
+           else if(nums[0]<=nums[mid]){
+            s = mid+1;
+           }else{
+            ans = mid;
+            e = mid;
+           }
+            mid = (s+e)/2;
         }
-
-        while (l + 1 < r) {
-            int mid = l + (r - l) / 2;
-
-            if (nums[mid] == nums[r]) {
-                
-                r--; 
-            } 
-            else if (predicate(nums[mid], nums[0]) == 0) {
-                
-                l = mid;
-            } 
-            else {
-                
-                r = mid;
-            }
-        }
-
-        return min(nums[l],nums[r]);
+        return min(nums[mid],nums[ans]);
     }
 };
