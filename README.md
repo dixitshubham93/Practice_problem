@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/dixitshubham93/Practice_problem/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/dixitshubham93/Practice_problem/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/dixitshubham93/Practice_problem/tree/master/0048-rotate-image) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
