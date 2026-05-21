@@ -1,5 +1,6 @@
 class Solution{
 public:
+
     vector<vector<int>>dp;
     
     bool canPartition(vector<int>& nums) {
@@ -12,26 +13,26 @@ public:
 
     vector<vector<int>> dp(n + 1, vector<int>(half + 1, 0));
 
-    // Base case
+    
     for (int i = 0; i <= n; i++) {
         dp[i][0] = 1;
     }
 
-    // Bottom-up
-    for (int idx = n - 1; idx >= 0; idx--) {
-        for (int temp = 0; temp <= half; temp++) {
+    
+    for (int idx = 0; idx<n; idx++) {
+        for (int temp = 1; temp <= half; temp++) {
 
-            int notTake = dp[idx + 1][temp];
+            int notTake = idx!=0?dp[idx - 1][temp]:0;
 
             int take = 0;
             if (temp >= nums[idx]) {
-                take = dp[idx + 1][temp - nums[idx]];
+                take = idx!=0?dp[idx - 1][temp - nums[idx]]:0;
             }
 
             dp[idx][temp] = take || notTake;
         }
     }
 
-    return dp[0][half];
+    return dp[n-1][half];
 }
 };
