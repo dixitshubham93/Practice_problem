@@ -1,33 +1,31 @@
 class Solution {
 public:
-    vector<int>findOrder(int n, vector<vector<int>>& pre){
-        vector<int>ans;
-        vector<int>degree(n);
+    bool dfs(vector<vector<int>>& adj , vector<int>&topo , vector<int>& visited , int n ){
+        visited[n] = 1;
+        for(int child : adj[n]){
+            if(visited[child]==0){
+                if(dfs(adj , topo , visited , child)){return true;}
+            }else if(visited[child]==1){return true;}
+        }
+        topo.push_back(n);
+        visited[n] = 2;
+        return false;
+    }
+    vector<int> findOrder(int n, vector<vector<int>>& p) {
+        vector<int>topo;
         vector<vector<int>>adj(n);
-        for(auto& it : pre){
+        vector<int>visited(n,0);
+        
+        for(auto & it : p){
             adj[it[1]].push_back(it[0]);
-            degree[it[0]]++;
         }
-        queue<int>q;
+        
         for(int i = 0;i<n;i++){
-            if(degree[i]==0){
-               q.push(i);
-            }
-        }
-        while(!q.empty()){
-          int node = q.front();
-          ans.push_back(node);
-          q.pop();
-          for(int child : adj[node]){
-            if(degree[child]>0){
-                degree[child]--;
-                if(degree[child]==0){
-                    q.push(child);
-                }
-            }     
+          if(visited[i]==0){
+            if(dfs(adj , topo ,visited, i)){return {};}
           }
         }
-        if(ans.size()!=n){return {};}
-        return ans;
+        reverse(topo.begin() , topo.end());
+        return topo;
     }
 };
