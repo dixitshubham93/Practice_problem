@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/dixitshubham93/Practice_problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dixitshubham93/Practice_problem/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/dixitshubham93/Practice_problem/tree/master/0874-walking-robot-simulation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dixitshubham93/Practice_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dixitshubham93/Practice_problem/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dixitshubham93/Practice_problem/tree/master/0994-rotting-oranges) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dixitshubham93/Practice_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1217,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/dixitshubham93/Practice_problem/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/dixitshubham93/Practice_problem/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/dixitshubham93/Practice_problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/dixitshubham93/Practice_problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
