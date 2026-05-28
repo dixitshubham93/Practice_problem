@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dixitshubham93/Practice_problem/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/dixitshubham93/Practice_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/dixitshubham93/Practice_problem/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/dixitshubham93/Practice_problem/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dixitshubham93/Practice_problem/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dixitshubham93/Practice_problem/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
