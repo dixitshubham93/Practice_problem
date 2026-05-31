@@ -6,14 +6,6 @@ private:
 
 public:
     Semaphore(int c = 1) : count(c) {}
-    void setCount(int c){
-        count = c;
-    }
-    void signal() {
-        unique_lock<mutex> lock(mtx);
-        count++;
-        cv.notify_one();
-    }
 
     void wait() {
         unique_lock<mutex> lock(mtx);
@@ -22,20 +14,31 @@ public:
             cv.wait(lock);
 
         count--;
-    } 
+    }
+
+    void signal() {
+        unique_lock<mutex> lock(mtx);
+        count++;
+        cv.notify_one();
+    }
+
+    bool try_lock() {
+        unique_lock<mutex> lock(mtx);
+
+        if (count == 0)
+            return false;
+
+        count--;
+        return true;
+    }
 };
 
 class DiningPhilosophers {
 private:
-   Semaphore fork[5];
-   mutex mtx;
+    std::mutex forks[5];
+
 public:
-  
-    DiningPhilosophers() {
-        for(int i = 0;i<5;i++){
-            fork[i].setCount(1);
-        }
-    }
+    DiningPhilosophers() {}
 
     void wantsToEat(int i,
                     function<void()> pickLeftFork,
@@ -43,18 +46,27 @@ public:
                     function<void()> eat,
                     function<void()> putLeftFork,
                     function<void()> putRightFork) {
+        
+      
+        int left = i;
+        int right = (i + 1) % 5;
+        
+        
+        int first = std::min(left, right);
+        int second = std::max(left, right);
+        
+    
+        forks[first].lock();
+        forks[second].lock();
+        
+      
+        pickLeftFork();
+        pickRightFork();
+        eat();
+        putLeftFork();
+        putRightFork();
 
-     
-            lock_guard<mutex>lock(mtx);
-            fork[i%5].wait();
-            fork[(i+1)%5].wait();
-            pickLeftFork();
-            pickRightFork();
-            eat();
-            putLeftFork();
-            fork[i%5].signal();
-            putRightFork();
-            fork[(i+1)%5].signal();
-       
+        forks[second].unlock();
+        forks[first].unlock();
     }
-};
+};     
