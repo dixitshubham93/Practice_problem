@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3623-count-number-of-trapezoids-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dixitshubham93/Practice_problem/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dixitshubham93/Practice_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3453-separate-squares-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dixitshubham93/Practice_problem/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Depth-First Search
 |  |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dixitshubham93/Practice_problem/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3606-coupon-code-validator](https://github.com/dixitshubham93/Practice_problem/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Biconnected Component
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dixitshubham93/Practice_problem/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
