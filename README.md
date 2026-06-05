@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dixitshubham93/Practice_problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dixitshubham93/Practice_problem/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dixitshubham93/Practice_problem/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dixitshubham93/Practice_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dixitshubham93/Practice_problem/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph
 |  |
 | ------- |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
 |  |
 | ------- |
