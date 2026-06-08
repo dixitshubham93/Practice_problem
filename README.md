@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2141-maximum-running-time-of-n-computers](https://github.com/dixitshubham93/Practice_problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dixitshubham93/Practice_problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/dixitshubham93/Practice_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2069-walking-robot-simulation-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/dixitshubham93/Practice_problem/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/dixitshubham93/Practice_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/2288-count-operations-to-obtain-zero) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/dixitshubham93/Practice_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
