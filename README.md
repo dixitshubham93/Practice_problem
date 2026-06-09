@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/dixitshubham93/Practice_problem/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/dixitshubham93/Practice_problem/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/dixitshubham93/Practice_problem/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dixitshubham93/Practice_problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0794-swim-in-rising-water](https://github.com/dixitshubham93/Practice_problem/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/dixitshubham93/Practice_problem/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dixitshubham93/Practice_problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
