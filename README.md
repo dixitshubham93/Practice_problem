@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dixitshubham93/Practice_problem/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dixitshubham93/Practice_problem/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/dixitshubham93/Practice_problem/tree/master/0131-palindrome-partitioning) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dixitshubham93/Practice_problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dixitshubham93/Practice_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/dixitshubham93/Practice_problem/tree/master/0173-binary-search-tree-iterator) |
@@ -1203,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dixitshubham93/Practice_problem/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/dixitshubham93/Practice_problem/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/dixitshubham93/Practice_problem/tree/master/0401-binary-watch) |
