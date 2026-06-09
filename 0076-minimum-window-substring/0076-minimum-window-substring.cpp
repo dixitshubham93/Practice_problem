@@ -1,42 +1,45 @@
 class Solution {
 public:
-    bool isvalid( unordered_map<char, int>&freq){
-        for(auto[key , val]:freq){
-            if(val>0){return false;}
-        }
-        return true;
-    }
-    string minWindow(string s, string t){
-       unordered_map<char , int>freq;
-       for(auto it : t){
-        freq[it]++;
-       }
-       int start = 0;
-       int ans = INT_MAX;
-       string f ="";
-       int l = -1;
-       int r = -1;
-       for(int i = 0;i<s.size();i++){
-        freq[s[i]]--;
-        
-        if(isvalid(freq)){
-            if(ans>i-start+1){
-                ans = i - start+1;
-                l = start ;
-                r = ans;
+    string minWindow(string s, string t) {
+
+        unordered_map<char,int> mp;
+
+        int count = t.size();
+
+        for(char c : t)
+            mp[c]++;
+
+        int L = 0;
+        int idx = 0;
+        int len = INT_MAX;
+
+        for(int R = 0; R < s.size(); R++) {
+
+            if(mp.count(s[R])) {
+                mp[s[R]]--;
+
+                if(mp[s[R]] >= 0)
+                    count--;
+            }
+
+            while(count == 0) {
+
+                if(R - L + 1 < len) {
+                    len = R - L + 1;
+                    idx = L;
+                }
+
+                if(mp.count(s[L])) {
+                    mp[s[L]]++;
+
+                    if(mp[s[L]] > 0)
+                        count++;
+                }
+
+                L++;
             }
         }
-        while(isvalid(freq)){
-             if(ans>i-start+1){
-                ans = i - start+1;
-                l = start ;
-                r = ans;
-            }
-           freq[s[start]]++;
-           start++;
-        }
-       }
-       if(l==-1){return "";}
-       return s.substr(l , r);
+
+        return len == INT_MAX ? "" : s.substr(idx, len);
     }
 };
