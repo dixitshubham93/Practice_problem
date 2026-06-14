@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dixitshubham93/Practice_problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dixitshubham93/Practice_problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/dixitshubham93/Practice_problem/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/dixitshubham93/Practice_problem/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/dixitshubham93/Practice_problem/tree/master/2751-robot-collisions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/dixitshubham93/Practice_problem/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
