@@ -11,23 +11,29 @@
  */
 class BSTIterator {
 public:
-
-        stack<TreeNode*>st;
-   void makeBST(TreeNode* root , stack<TreeNode*>& st){
+    stack<TreeNode*>st;
+    BSTIterator(TreeNode* root) {
         if(root==nullptr)return;
         st.push(root);
-        makeBST(root->left , st);
-        return;
+        while(root->left!=nullptr){
+            st.push(root->left);
+            root = root->left;
+        }
     }
-    BSTIterator(TreeNode* root) {
-        makeBST(root , st);
+    void BST(TreeNode* root) {
+        if(root==nullptr)return;
+        st.push(root);
+        while(root->left!=nullptr){
+            st.push(root->left);
+            root = root->left;
+        }
     }
-    
-    int next() {  
-        TreeNode* node = st.top();
+    int next() {
+        int ans = st.top()->val;
+        TreeNode* temp= st.top();
         st.pop();
-        makeBST(node->right , st);
-        return node->val;
+        BST(temp->right);
+        return ans;
     }
     
     bool hasNext() {
