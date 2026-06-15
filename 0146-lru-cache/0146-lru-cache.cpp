@@ -1,96 +1,94 @@
+#include <unordered_map>
+using namespace std;
 
-class Node{
-    
-    public:
-     int key;
-     int val;
-     Node* prev;
-     Node* next;
-    Node(int k , int v){
-        this->key = k;
-        this->val = v;
+class Node {
+public:
+    int key, val;
+    Node *prev, *next;
+
+    Node(int k, int v) {
+        key = k;
+        val = v;
         prev = next = nullptr;
     }
 };
 
-class DoublyList{
+class DoublyLinkedList {
 public:
+    Node *head, *tail;
 
-  Node* head;
-  Node* tail;
+    DoublyLinkedList() {
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
 
-  DoublyList(){
-    head = new Node(-1 , -1);
-    tail  = new Node(-1 , -1);
+        head->next = tail;
+        tail->prev = head;
+    }
 
-    head->next = tail;
-    tail->prev = head;
-  }
+    void remove(Node* node) {
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+    }
 
-   void addFront(Node* node){
+    void insertFront(Node* node) {
+        node->next = head->next;
+        node->prev = head;
 
-    Node* temp = head->next;
+        head->next->prev = node;
+        head->next = node;
+    }
 
-    head->next= node;
-    node->prev = head;
-    node->next = temp;
-    temp->prev = node;
-
-   }
-   void remove(Node* node){
-    Node* p = node->prev;
-    Node* n = node->next;
-    p->next = n;
-    n->prev = p;
-   }
-   Node* getLRU(){
-    return tail->prev;
-   }
+    Node* getLRU() {
+        return tail->prev;
+    }
 };
 
 class LRUCache {
-public:     
+public:
     int cap;
-    unordered_map<int , Node*>mp;
-    DoublyList* dll = new DoublyList();
-
+    unordered_map<int, Node*> mp;
+    DoublyLinkedList dll;
 
     LRUCache(int capacity) {
         cap = capacity;
     }
+
     int get(int key) {
-        if(mp.find(key)==mp.end()){
+        if (!mp.count(key))
             return -1;
-        }
+
         Node* node = mp[key];
-        dll->remove(node);
-        dll->addFront(node);
+
+        dll.remove(node);
+        dll.insertFront(node);
+
         return node->val;
     }
-    
+
     void put(int key, int value) {
-        if(mp.find(key)!=mp.end()){
+
+        if (mp.count(key)) {
             Node* node = mp[key];
-            dll->remove(node);
+
             node->val = value;
-            dll->addFront(node);
-            return ;
+
+            dll.remove(node);
+            dll.insertFront(node);
+
+            return;
         }
-        if(mp.size()==cap){
-            Node* lru = dll->getLRU();
+
+        if (mp.size() == cap) {
+            Node* lru = dll.getLRU();
+
+            dll.remove(lru);
             mp.erase(lru->key);
-            dll->remove(lru);
             delete lru;
         }
-       Node* node = new Node(key , value);
-       dll->addFront(node);
-       mp[key] = node;
+
+        Node* node = new Node(key, value);
+
+        dll.insertFront(node);
+        mp[key] = node;
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
