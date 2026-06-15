@@ -1,38 +1,38 @@
 class MinStack {
 public:
-    stack<int>st;
-    stack<int>dec;
+    stack<int>st1;
+    stack<int>st2;
+
     MinStack() {
         
     }
     
-    void push(int x) {
-        st.push(x);
-        if(dec.empty()||dec.top()>=x){
-            dec.push(x);
-        }else{
-        dec.push(dec.top());
-        }
+    void push(int value) {
+        st1.push(value);
+        if(st2.empty()||st2.top()>=value){st2.push(value);}
     }
     
     void pop() {
-        st.pop();
-        dec.pop();
+      if(st1.empty()){return ;}
+      if(st1.top()==st2.top()){
+        st2.pop();
+        }
+        st1.pop();
     }
     
     int top() {
-        return st.top();
+        return st1.top();
     }
     
     int getMin() {
-      return dec.top();  
+        return st2.top();
     }
 };
 
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack* obj = new MinStack();
- * obj->push(val);
+ * obj->push(value);
  * obj->pop();
  * int param_3 = obj->top();
  * int param_4 = obj->getMin();
