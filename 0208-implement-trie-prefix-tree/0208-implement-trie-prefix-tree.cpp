@@ -1,51 +1,55 @@
+
 class TrieNode{
     public:
-    vector<TrieNode*>children{26 , nullptr};
-    bool isEnd = false;
+    unordered_map< char,TrieNode*> arr;
+    bool isEnd;
+    TrieNode(){
+        for(int i = 0;i<26;i++){
+            arr[i] = nullptr;
+        }
+        isEnd = false;
+    }
 };
 
 class Trie {
-private:
-   TrieNode* root;
 public:
+    TrieNode* main = new TrieNode();
+    
     Trie() {
-        root = new TrieNode();
+        
     }
     
     void insert(string word) {
-        TrieNode* node = root;
-        for(int i= 0;i<word.size();i++){
-            char ch = word[i];
-            if(node->children[ch-'a']==nullptr){
-               node->children[ch-'a'] = new TrieNode();
+        TrieNode* root = main;
+        for(int i = 0;i<word.size();i++){
+            if(root->arr[word[i]]==nullptr){
+                root->arr[word[i]] = new TrieNode();
             }
-            node = node->children[ch-'a'];
+            root = root->arr[word[i]];
         }
-        node->isEnd = true;
+        root->isEnd = true;
     }
     
     bool search(string word) {
-        TrieNode* node = root;
-        for(int i= 0;i<word.size();i++){
-            char ch = word[i];
-            if(node->children[ch-'a']==nullptr){
-              return false;
+        TrieNode* root = main;
+        for(int i = 0;i<word.size();i++){
+            if(root->arr[word[i]]==nullptr){
+                return false;
             }
-            node = node->children[ch-'a'];
+            root = root->arr[word[i]];
         }
-        return node->isEnd;
+    return root->isEnd;
     }
     
     bool startsWith(string prefix) {
-        TrieNode* node = root;
-        for(int i= 0;i<prefix.size();i++){
-            char ch = prefix[i];
-            if(node->children[ch-'a']==nullptr){
-              return false;
+        TrieNode* root = main;
+        for(int i = 0;i<prefix.size();i++){
+            if(root->arr[prefix[i]]==nullptr){
+                return false;
             }
-            node = node->children[ch-'a'];
+            root = root->arr[prefix[i]];
         }
-        return true;
+    return true;
     }
 };
 
