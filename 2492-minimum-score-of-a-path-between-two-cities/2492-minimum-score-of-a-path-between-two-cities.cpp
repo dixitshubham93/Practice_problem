@@ -1,49 +1,30 @@
-class DSU{
-    public:
-     vector<int>parent;
-     vector<int>size;
-
-     DSU(int n ){
-        size.resize(n+1 ,1);
-        parent.resize(n+1 ,0);
-        for(int i = 0;i<n;i++){
-            parent[i] = i;
-        }
-     }
-     int find(int x){
-        if(parent[x]==x)return x;
-        return parent[x] = find(parent[x]);
-     }
-     void Union(int a  , int b){
-        int root_a = find(a);
-        int root_b = find(b);
-        if(root_a==root_b)return ;
-        if(size[root_a]>=size[root_b]){
-            parent[root_b] = root_a;
-            size[root_a]+=size[root_b];
-        }else{
-            parent[root_a] = root_b;
-            size[root_b]+=size[root_a];
-        }
-     }
-};
 class Solution {
 public:
-    
     int minScore(int n, vector<vector<int>>& roads) {
-        if(n==1)return 0;
-        DSU* dsu = new DSU(n+1);
-        int ans = INT_MAX;
-        for(auto&it : roads){
-           int u = it[0];
-           int v = it[1];
-           dsu->Union(u , v);
+        
+        vector<vector<pair<int , int>>>adj(n+2);
+
+        for(auto& it : roads){
+            adj[it[0]].push_back({it[1] , it[2]});
+            adj[it[1]].push_back({it[0] , it[2]});
         }
-        int root = dsu->find(1);
-        for(auto&it : roads){
-         if(dsu->find(it[0])==root){
-         ans = min(ans , it[2]);
-         }
+        int ans = INT_MAX;
+        queue<int>q;
+        vector<bool>visited(n+1 , false);
+        q.push(1);
+        visited[1] = true;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();        
+            for(auto& it : adj[node]){
+                int edge = it.second;
+                int child = it.first;
+                ans = min(ans , edge);
+                if(!visited[child]){
+                    visited[child] = true;
+                    q.push(child);
+                }
+            }
         }
         return ans;
     }
