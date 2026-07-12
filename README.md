@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitshubham93/Practice_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dixitshubham93/Practice_problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dixitshubham93/Practice_problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
