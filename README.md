@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dixitshubham93/Practice_problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3623-count-number-of-trapezoids-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dixitshubham93/Practice_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/dixitshubham93/Practice_problem/tree/master/0204-count-primes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dixitshubham93/Practice_problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dixitshubham93/Practice_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dixitshubham93/Practice_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
