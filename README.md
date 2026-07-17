@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dixitshubham93/Practice_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dixitshubham93/Practice_problem/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dixitshubham93/Practice_problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dixitshubham93/Practice_problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dixitshubham93/Practice_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dixitshubham93/Practice_problem/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dixitshubham93/Practice_problem/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3488-closest-equal-element-queries) |
@@ -993,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/dixitshubham93/Practice_problem/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dixitshubham93/Practice_problem/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1012,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitshubham93/Practice_problem/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dixitshubham93/Practice_problem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dixitshubham93/Practice_problem/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3713-longest-balanced-substring-i) |
@@ -1242,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/dixitshubham93/Practice_problem/tree/master/0204-count-primes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dixitshubham93/Practice_problem/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dixitshubham93/Practice_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dixitshubham93/Practice_problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dixitshubham93/Practice_problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
