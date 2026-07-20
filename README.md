@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0944-delete-columns-to-make-sorted](https://github.com/dixitshubham93/Practice_problem/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/dixitshubham93/Practice_problem/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/dixitshubham93/Practice_problem/tree/master/1189-maximum-number-of-balloons) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/dixitshubham93/Practice_problem/tree/master/1382-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dixitshubham93/Practice_problem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dixitshubham93/Practice_problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/dixitshubham93/Practice_problem/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dixitshubham93/Practice_problem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/dixitshubham93/Practice_problem/tree/master/1106-parsing-a-boolean-expression) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixitshubham93/Practice_problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1504-count-submatrices-with-all-ones) |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/dixitshubham93/Practice_problem/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/dixitshubham93/Practice_problem/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/dixitshubham93/Practice_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dixitshubham93/Practice_problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1504-count-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1504-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
