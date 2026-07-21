@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/dixitshubham93/Practice_problem/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dixitshubham93/Practice_problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3713-longest-balanced-substring-i) |
