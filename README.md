@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dixitshubham93/Practice_problem/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dixitshubham93/Practice_problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3453-separate-squares-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dixitshubham93/Practice_problem/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dixitshubham93/Practice_problem/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/dixitshubham93/Practice_problem/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1376,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1622-fancy-sequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1622-fancy-sequence) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/dixitshubham93/Practice_problem/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
