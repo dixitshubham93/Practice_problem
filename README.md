@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0503-next-greater-element-ii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/dixitshubham93/Practice_problem/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/dixitshubham93/Practice_problem/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dixitshubham93/Practice_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/dixitshubham93/Practice_problem/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dixitshubham93/Practice_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dixitshubham93/Practice_problem/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/dixitshubham93/Practice_problem/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/0518-coin-change-ii) |
@@ -1335,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/dixitshubham93/Practice_problem/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/dixitshubham93/Practice_problem/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/dixitshubham93/Practice_problem/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Quickselect
@@ -1446,4 +1450,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-print-in-order](https://github.com/dixitshubham93/Practice_problem/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/dixitshubham93/Practice_problem/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/dixitshubham93/Practice_problem/tree/master/1226-the-dining-philosophers) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
