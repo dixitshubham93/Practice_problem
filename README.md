@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/dixitshubham93/Practice_problem/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/dixitshubham93/Practice_problem/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/dixitshubham93/Practice_problem/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/dixitshubham93/Practice_problem/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/dixitshubham93/Practice_problem/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/dixitshubham93/Practice_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dixitshubham93/Practice_problem/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/dixitshubham93/Practice_problem/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dixitshubham93/Practice_problem/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1454,4 +1457,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
