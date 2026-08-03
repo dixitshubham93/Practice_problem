@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dixitshubham93/Practice_problem/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dixitshubham93/Practice_problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dixitshubham93/Practice_problem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1504-count-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1559-cherry-pickup-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1559-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1462,4 +1464,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
