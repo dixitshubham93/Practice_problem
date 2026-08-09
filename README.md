@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/dixitshubham93/Practice_problem/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/1200-minimum-absolute-difference) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dixitshubham93/Practice_problem/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/dixitshubham93/Practice_problem/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dixitshubham93/Practice_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dixitshubham93/Practice_problem/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/dixitshubham93/Practice_problem/tree/master/0907-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0967-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1043-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1143-longest-common-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/dixitshubham93/Practice_problem/tree/master/1187-make-array-strictly-increasing) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/dixitshubham93/Practice_problem/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dixitshubham93/Practice_problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1471,6 +1475,15 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/dixitshubham93/Practice_problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dixitshubham93/Practice_problem/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
