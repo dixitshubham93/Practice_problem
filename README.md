@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/dixitshubham93/Practice_problem/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/dixitshubham93/Practice_problem/tree/master/2574-left-and-right-sum-differences) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2615-sum-of-distances](https://github.com/dixitshubham93/Practice_problem/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dixitshubham93/Practice_problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2615-sum-of-distances](https://github.com/dixitshubham93/Practice_problem/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dixitshubham93/Practice_problem/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/dixitshubham93/Practice_problem/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2574-left-and-right-sum-differences](https://github.com/dixitshubham93/Practice_problem/tree/master/2574-left-and-right-sum-differences) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2615-sum-of-distances](https://github.com/dixitshubham93/Practice_problem/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dixitshubham93/Practice_problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/dixitshubham93/Practice_problem/tree/master/2625-increment-submatrices-by-one) |
@@ -1176,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/dixitshubham93/Practice_problem/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/dixitshubham93/Practice_problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/dixitshubham93/Practice_problem/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dixitshubham93/Practice_problem/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
