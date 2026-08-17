@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1504-count-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1504-count-submatrices-with-all-ones) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dixitshubham93/Practice_problem/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1559-cherry-pickup-ii) |
+| [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dixitshubham93/Practice_problem/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/dixitshubham93/Practice_problem/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/dixitshubham93/Practice_problem/tree/master/1612-avoid-flood-in-the-city) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dixitshubham93/Practice_problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1504-count-submatrices-with-all-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1559-cherry-pickup-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1559-cherry-pickup-ii) |
+| [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1494,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
