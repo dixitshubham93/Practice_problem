@@ -10,7 +10,6 @@ public:
             
             if(intervals[i][0]<=end){
                 end = max(end , intervals[i][1]);
-                start = min(start , intervals[i][0]);
             }else{ 
                 ans.push_back({start ,end});
                 start = intervals[i][0];
