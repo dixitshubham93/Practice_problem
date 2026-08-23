@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1776-car-fleet-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1776-car-fleet-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/dixitshubham93/Practice_problem/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/dixitshubham93/Practice_problem/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dixitshubham93/Practice_problem/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dixitshubham93/Practice_problem/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/dixitshubham93/Practice_problem/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dixitshubham93/Practice_problem/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/dixitshubham93/Practice_problem/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/dixitshubham93/Practice_problem/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/dixitshubham93/Practice_problem/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/dixitshubham93/Practice_problem/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dixitshubham93/Practice_problem/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/dixitshubham93/Practice_problem/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/dixitshubham93/Practice_problem/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/dixitshubham93/Practice_problem/tree/master/1975-maximum-matrix-sum) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/dixitshubham93/Practice_problem/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dixitshubham93/Practice_problem/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1500,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/dixitshubham93/Practice_problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/dixitshubham93/Practice_problem/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
