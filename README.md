@@ -1270,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/dixitshubham93/Practice_problem/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/dixitshubham93/Practice_problem/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dixitshubham93/Practice_problem/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dixitshubham93/Practice_problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dixitshubham93/Practice_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
