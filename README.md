@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dixitshubham93/Practice_problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dixitshubham93/Practice_problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dixitshubham93/Practice_problem/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3904-smallest-stable-index-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
