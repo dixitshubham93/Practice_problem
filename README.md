@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dixitshubham93/Practice_problem/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dixitshubham93/Practice_problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/dixitshubham93/Practice_problem/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/dixitshubham93/Practice_problem/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/dixitshubham93/Practice_problem/tree/master/1642-water-bottles) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dixitshubham93/Practice_problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dixitshubham93/Practice_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dixitshubham93/Practice_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/dixitshubham93/Practice_problem/tree/master/1510-stone-game-iv) |
 | [1559-cherry-pickup-ii](https://github.com/dixitshubham93/Practice_problem/tree/master/1559-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/dixitshubham93/Practice_problem/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dixitshubham93/Practice_problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dixitshubham93/Practice_problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dixitshubham93/Practice_problem/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dixitshubham93/Practice_problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dixitshubham93/Practice_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dixitshubham93/Practice_problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/dixitshubham93/Practice_problem/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dixitshubham93/Practice_problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/dixitshubham93/Practice_problem/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/dixitshubham93/Practice_problem/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dixitshubham93/Practice_problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
