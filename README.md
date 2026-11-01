@@ -1549,4 +1549,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dixitshubham93/Practice_problem/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/dixitshubham93/Practice_problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
