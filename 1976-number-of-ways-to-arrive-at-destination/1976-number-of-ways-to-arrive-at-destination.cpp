@@ -1,49 +1,39 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-
+    int mod = 1e9+7;
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<long long,long long>>> adj(n);
+        vector<vector<pair<int ,int>>>adj(n);
 
-        for(auto &r : roads){
-            adj[r[0]].push_back({r[1], r[2]});
-            adj[r[1]].push_back({r[0], r[2]});
+        for(auto it : roads){
+            adj[it[0]].push_back({it[1] , it[2]});
+            adj[it[1]].push_back({it[0] , it[2]});
         }
+        vector<long long>dist(n+1 , LLONG_MAX);
+        vector<long long>ways(n+1 , 0);
 
-        vector<long long> dis(n, LLONG_MAX);
-        vector<long long> freq(n, 0);
+        priority_queue<pair<long long , long long> , vector<pair<long long , long long>> , greater<pair<long , long>>>pq;
+        pq.push({0 , 0});
+        ways[0] = 1;
+        dist[0] = 0;
 
-        priority_queue<
-            pair<long long,long long>,
-            vector<pair<long long,long long>>,
-            greater<>
-        > q;
+        while(!pq.empty()){
+            auto [cur , node] = pq.top();
+            pq.pop();
 
-        dis[0] = 0;
-        freq[0] = 1;
-
-        q.push({0, 0});
-
-        while(!q.empty()){
-            auto [time, node] = q.top();
-            q.pop();
-
-            if(time > dis[node]) continue;
-
-            for(auto &[child, wt] : adj[node]){
-                long long newtime = time + wt;
-
-                if(newtime < dis[child]){
-                    dis[child] = newtime;
-                    freq[child] = freq[node];
-                    q.push({newtime, child});
-                }
-                else if(newtime == dis[child]){
-                    freq[child] = (freq[child] + freq[node]) % MOD;
+            if(cur>dist[node])continue;
+            
+            for(auto child : adj[node]){
+                long long  time = 1ll*cur + 1ll*child.second;
+                int ch = child.first;
+                if(dist[ch] == time){
+                ways[ch] = (ways[ch]%mod+ways[node]%mod)%mod;
+                }else if(dist[ch] > time){
+                  dist[ch] = time;
+                  ways[ch] = ways[node]%mod;
+                  pq.push({time , ch});
                 }
             }
         }
-
-        return freq[n-1];
+        return ways[n-1];
     }
 };
